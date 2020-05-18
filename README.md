@@ -1,6 +1,6 @@
 # wiset
 Wiset helps you to change the setting required for WiFi adapter for wireless attacks. 
-This is a simple python script creted using subprocess module.
+This is a simple python script created using subprocess module.
 
 HOW TO USE:
 1. Make sure your wireless adapter is connected to kali machine.(This script is specially designed for Kali 2020)
